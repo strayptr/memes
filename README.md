@@ -3,7 +3,7 @@
 
 The following emojimemes have been carefully prepared and are suitable for long-term memeing.
 
-Use them anywhere on GitHub, or in your README.md files.  Or your LICENSE files  ![Kappa](https://git.io/Kappa)
+Use them anywhere on GitHub, like in an issue or a README.md file.  Or your LICENSE file  ![Kappa](https://git.io/Kappa)
 
 Most [twitchemotes](https://twitchemotes.com/) are supported. 
 
