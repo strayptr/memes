@@ -1,12 +1,20 @@
-#### [git.io/memes](//git.io/memes)
+#### [git.io/memes](//git.io/memes) - because I mean why not
 -
-The following emojimemes have been carefully prepared and are suitable for long-term memeing in your README.md files.  Or your LICENSE files  ![Kappa](https://git.io/Kappa)
+
+The following emojimemes have been carefully prepared and are suitable for long-term memeing.
+
+Use them anywhere on GitHub, or in your README.md files.  Or your LICENSE files  ![Kappa](https://git.io/Kappa)
 
 Most [twitchemotes](https://twitchemotes.com/) are supported.
 
 #### Usage
 
-Put `![Doge](https://git.io/doge)` in your README.md to get your very own [![Doge](https://git.io/doge)](//git.io/memes)
+Each meme is easy to remember and easy to type. 
+
+Want a Doge? Use `![](https://git.io/Doge)` for your very own [![Doge](https://git.io/Doge)](//git.io/memes)
+
+Want a Kappa?  `![](https://git.io/Kappa)` to show off your GrayFaec [![Kappa](https://git.io/Kappa)](//git.io/memes)
+
 
 Check out [wow such signal](https://github.com/strayptr/wow) and [wow such signal/#1](https://github.com/strayptr/wow/pull/1) to see how the memes look in practice.
 
