@@ -5,7 +5,7 @@ The following emojimemes have been carefully prepared and are suitable for long-
 
 Use them anywhere on GitHub, or in your README.md files.  Or your LICENSE files  ![Kappa](https://git.io/Kappa)
 
-Most [twitchemotes](https://twitchemotes.com/) are supported.
+Most [twitchemotes](https://twitchemotes.com/) are supported. 
 
 #### Usage
 
