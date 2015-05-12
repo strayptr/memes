@@ -1,10 +1,12 @@
+### [git.io/memes](//git.io/memes)
+
 The following emojimemes have been carefully prepared and are suitable for long-term memeing in your README.md files.  Or your LICENSE files  ![Kappa](https://git.io/Kappa)
 
 Most [twitchemotes](https://twitchemotes.com/) are supported.
 
 #### Usage
 
-Put `![Doge](https://git.io/doge)` in your README.md to get your very own ![Doge](https://git.io/doge)
+Put `![Doge](https://git.io/doge)` in your README.md to get your very own [![Doge](https://git.io/doge)](//git.io/memes)
 
 #### Memes
 
