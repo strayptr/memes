@@ -8,7 +8,7 @@ Most [twitchemotes](https://twitchemotes.com/) are supported.
 
 Put `![Doge](https://git.io/doge)` in your README.md to get your very own [![Doge](https://git.io/doge)](//git.io/memes)
 
-Check out [wow such signal](https://github.com/strayptr/wow) and [wow such signal/#1] to see examples how the memes look in practice.
+Check out [wow such signal](https://github.com/strayptr/wow) and [wow such signal/#1](https://github.com/strayptr/wow/pull/1) to see examples how the memes look in practice.
 
 #### Memes
 
