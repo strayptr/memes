@@ -1,8 +1,12 @@
 The following emojimemes have been carefully prepared and are suitable for long-term memeing in your README.md files.  Or your LICENSE files  ![Kappa](https://git.io/Kappa)
 
-### Memes
+Most [twitchemotes](https://twitchemotes.com/) are supported.
 
-Copy-paste any of these `![Examples](https://git.io/Examples)` into your README.md:
+#### Usage
+
+Put `![Doge](https://git.io/doge)` in your README.md to get your very own ![Doge](https://git.io/doge)
+
+#### Memes
 
 CamelCase | lowercase
 ------------ | -------------
@@ -149,8 +153,6 @@ CamelCase | lowercase
 ![git.io/WTRuck](https://cloud.githubusercontent.com/assets/12214175/7585603/196db700-f86a-11e4-893f-c992bb526a35.png) `![WTRuck](https://git.io/WTRuck)` <br>  ![WTRuck](https://git.io/WTRuck) | ![git.io/wtruck](https://cloud.githubusercontent.com/assets/12214175/7585604/19f2dc64-f86a-11e4-97c5-14f3030e1f76.png) `![wtruck](https://git.io/wtruck)` <br>  ![wtruck](https://git.io/wtruck)
 ![git.io/WutFace](https://cloud.githubusercontent.com/assets/12214175/7585606/1bfc329e-f86a-11e4-837b-5409bae92878.png) `![WutFace](https://git.io/WutFace)` <br>  ![WutFace](https://git.io/WutFace) | ![git.io/wutface](https://cloud.githubusercontent.com/assets/12214175/7585607/1c804336-f86a-11e4-883c-4017b4a2e678.png) `![wutface](https://git.io/wutface)` <br>  ![wutface](https://git.io/wutface)
 ![git.io/YouWHY](https://cloud.githubusercontent.com/assets/12214175/7585608/1e17a860-f86a-11e4-8149-c5e21ed2350d.png) `![YouWHY](https://git.io/YouWHY)` <br>  ![YouWHY](https://git.io/YouWHY) | ![git.io/youwhy](https://cloud.githubusercontent.com/assets/12214175/7585610/1e9c3d82-f86a-11e4-8e9c-91d6afd590cd.png) `![youwhy](https://git.io/youwhy)` <br>  ![youwhy](https://git.io/youwhy)
-
-
 
 #### words nobody will read
 
