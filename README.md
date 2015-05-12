@@ -8,6 +8,8 @@ Most [twitchemotes](https://twitchemotes.com/) are supported.
 
 Put `![Doge](https://git.io/doge)` in your README.md to get your very own [![Doge](https://git.io/doge)](//git.io/memes)
 
+Check out [wow such signal](https://github.com/strayptr/wow) or strayptr/wow#1 to see how they look in practice.
+
 #### Memes
 
 CamelCase | lowercase
